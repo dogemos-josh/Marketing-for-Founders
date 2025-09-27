@@ -16,7 +16,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 <br/><br/><br/>
 
 **Ready to get started? Just pick a topic:**
-- [📣 Places To Launch Your Startup](#-places-to-post-your-startup)
+- [📣 Places To Launch Your Startup](#-places-to-launch-your-startup)
 - [📷 Social Media Marketing](#-social-media-marketing)
 - [❄ Sales & Cold Outreach](#-sales--cold-outreach)
 - [📈 SEO](#-seo)
@@ -24,13 +24,13 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
 - [👩‍🏫 Influencer Marketing](#-influencer-marketing)
-- [💑 Affiliates and Referrals](#-affiliates-and-referrals) _**NEW!**_
-- [🛠 Free-Tool Marketing](#-free-tool-marketing) _**NEW!**_
+- [💑 Affiliates and Referrals](#-affiliates-and-referrals)
+- [🛠 Free-Tool Marketing](#-free-tool-marketing)
 - [🎯 Landing Pages, Messaging and Positioning](#-landing-pages-messaging-and-positioning)
 - [🎰 Pricing](#-pricing)
-- [🔥 Conversion Rate Optimization](#-conversion-rate-optimization) _**NEW!**_
+- [🔥 Conversion Rate Optimization](#-conversion-rate-optimization)
 - [💡 Idea Validation](#-idea-validation)
-- ⚗ User Research - coming soon
+- [⚗ User Research](#-user-research) _**NEW!**_
 - [🧨 Other resources](#-other-resources)
 
 _**PS. Leave me a star ⭐ or [buy me a beer🍺](https://ko-fi.com/marketingforfounders) if you find this useful!**_
@@ -310,8 +310,32 @@ Some ideas are great, but most aren’t worth your time. So, how can you validat
 - [How to validate your idea before building your product, wasting money and time](https://www.mrrunlocked.com/p/how-to-validate-your-idea-before)
 - [A four-part guide to finding problems your customers will pay you to solve using Reddit](https://shavinpeiries.com/scratch-their-itch/)
 - [How to not do product discovery](https://demandmaven.substack.com/p/how-to-not-do-product-discovery)
-- [The cold email that started a $100M/yr from company](https://marketingexamples.com/sales/jason-cohen)
+- [The cold email that started a $100M/yr company](https://marketingexamples.com/sales/jason-cohen)
 - [Interview Script: Discovery Phase (before you've built anything)](https://deployempathy.substack.com/p/customer-interview-script-discovery-phase-i-e-before-you-ve-built-anything-415336)
+
+<br/><br/><br/>
+
+## ⚗ User Research
+_Talk to your customers! They’ll let you know what to build, what to improve, and what to leave alone!_
+
+Sure, but when you’re running a SaaS/App, customers sign up by themselves, learn how to use your product on their own, and only reach out if they need help or support.
+
+So, how do you get feedback? Here are a few resources to get you started:
+- [An engineer’s guide to talking to users](https://posthog.com/newsletter/talk-to-users)
+- [How to get insights on autopilot](https://growthroadmaps.beehiiv.com/p/unlock-power-user-feedback)
+- [No time for Research? 3 High-speed Research Methods for Growth](https://www.growthmates.news/p/no-time-for-research-3-high-speed)
+- [How to write great product survey questions (with examples)](https://posthog.com/product-engineers/product-survey-questions)
+- [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- [MaxDiff: the secret to getting the truth from customers about what they actually care about](https://demandmaven.substack.com/p/maxdiff-the-secret-to-getting-the)
+- [Journey mapping interviews: a structured approach to analyzing the onboarding experience](https://shili.substack.com/p/journey-mapping-interviews-dev-tools)
+- [22 questions you should be asking your customers](https://x.com/samanthalcc/status/1567859143926599681)
+- [Jobs To Be Done: Email Invite Template & Interview Questions by Forget The Funnel](https://docs.google.com/document/d/183PzYjQi2vsIRlPMUrtzRwZF1VdnZWNDAZsrJ4MRT4Q/edit?tab=t.0#heading=h.qgx3g981sn95)
+- [Maze Question Bank: over 350 ready-to-go questions for your research projects](https://mazedesign.notion.site/dd213d94bcf046738434f93ce8152ab6?v=d05d4225bd8142dbb990e047e6d2ab24)
+- Customer interview scripts (thanks to [Michele Hansen](https://mjwhansen.com/))
+  - [New Customer Script](https://deployempathy.substack.com/p/customer-interview-script-template-relatively-new-customer-aka-jtbd-switch-interview-415338) - to uncover the initial part of the customer's journey
+  - [Happy Customer Script](https://deployempathy.substack.com/p/customer-interview-script-happy-customer-415341) - to learn from the customers you want more of
+  - [Churned Customer Script](https://deployempathy.substack.com/p/customer-interview-script-churned-customer-415342) - if you're struggling with churn
+  - [Feature Request Script](https://deployempathy.substack.com/p/turning-feature-requests-into-customer-research-450754) - when you want to dive deep into a feature request
 
 <br/><br/><br/>
 
