@@ -23,7 +23,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [💌 Email Marketing](#-email-marketing)
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
-- [👩‍🏫 Influencer Marketing](#-influencer-marketing)
+- [👩‍🏫 Influencer Marketing](#%E2%80%8D-influencer-marketing)
 - [💑 Affiliates and Referrals](#-affiliates-and-referrals)
 - [🛠 Free-Tool Marketing](#-free-tool-marketing)
 - [🎯 Landing Pages, Messaging and Positioning](#-landing-pages-messaging-and-positioning)
@@ -108,15 +108,21 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [How to Build in Public as a Founder](https://www.failory.com/blog/building-in-public)
 - [The Ultimate Founder-Led LinkedIn Guide](https://www.mrrunlocked.com/p/founder-led-linkedin-guide)
 - [LinkedIn CEO/Founder playbook](https://www.markepear.dev/blog/linkedin-ceo-founder-playbook)
-- [6 hacks to get the most out of LinkedIn](https://www.growthunhinged.com/p/guide-to-mastering-linkedin)
+- [199 LinkedIn post examples](https://miro.com/app/board/uXjVKUoKvTw=/)
+- [6 hacks to get the most out of LinkedIn](https://web.archive.org/web/20250717160200/https://www.growthunhinged.com/p/guide-to-mastering-linkedin)
 - [Turn Building in Public into your most profitable GTM channel](https://knowledge.gtmstrategist.com/p/turn-building-in-public-into-your)
 - [How to market to developers on Twitter](https://www.markepear.dev/blog/developer-marketing-twitter)
+- [SuperX Twitter Analytics extension](https://chromewebstore.google.com/detail/superx-twitter-analytics/bjobgelaoehgbnklgcaaehdpckmhkplk) - to find top performing tweets from other accounts
+- [Find your Following](https://www.findyourfollowing.com/) and [How to Dominate Twitter/X by Dagobert Renouf](https://www.dagorenouf.com/how-to-dominate-twitter/) - 2 courses by OG Build in Public creators
 
 **Social listening** - tracking and joining online conversations on topics related to your Startup is pretty helpful to get in touch with users and learn more about them:
 - [Social Listening: Identifying High-Intent Mentions to Grow Your SaaS](https://www.mrrunlocked.com/p/social-listening-guide)
 - [Sample set-up from Simple Analytics](https://1millionarr.substack.com/p/part-1-how-to-get-your-first-100)
 - [F5 bot](https://f5bot.com/) - a free tool to track mentions on Hacker News and Reddit
 - [BOFU Keyword Ideas](https://x.com/nicolasmerouze/status/1749721790950019179) - to brainstorm keywords to track
+
+**Other Social Media Marketing Guides:**
+- [Organic Growth Guide for TikTok and Instagram](https://www.post-bridge.com/growth-guide/start-here)
 
 <br/><br/><br/>
 
@@ -143,7 +149,6 @@ Here are a few ideas to set up your SaaS sales strategy:
 - [Sales emails examples from top companies](https://goodsalesemails.com/)
 - [Got saas clients doing this strategy](https://www.reddit.com/r/SaaS/comments/1jnlllj/got_saas_clients_doing_this_strategy_so_i_turned/)
 - [How Our Client Booked 25+ Meetings & 10+ New Logos Using Clay + YC](https://gtmba.beehiiv.com/p/how-our-client-booked-25-meetings-10-new-logos-using-clay-yc)
-- [A 6-step framework to grow sales as a founder](https://www.growthunhinged.com/p/founder-led-sales-framework)
 - [Examples of proven sales plays to create a sales pipeline](https://www.elenaverna.com/p/examples-of-proven-sales-plays-to)
 - [How to create a high-converting Sales Deck](https://www.mrrunlocked.com/p/high-converting-sales-deck)
 
@@ -164,9 +169,11 @@ These guides and tips will help you get started:
 - [The HyperGrowth Partners Guide to AI-powered Programmatic SEO](https://playbooks.hypergrowthpartners.com/p/ai-powered-programmatic-seo)
 - [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) - the SEO course for makers
 - [SEO for LLMs and AI search](https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search)
-- [How to get recommended by ChatGPT](https://www.growthunhinged.com/p/get-recommended-by-chatgpt)
+- [How to get recommended by ChatGPT](https://web.archive.org/web/20250912043229/https://www.growthunhinged.com/p/get-recommended-by-chatgpt)
 - [A hands-on guide to ranking across AI search engines like ChatGPT, Perplexity, and Google](https://knowledge.gtmstrategist.com/p/how-to-win-the-new-seo-game-ai-search)
 - [How Tally Turned AI into Their Top Acquisition Source](https://justinhammond.substack.com/p/how-tally-turned-ai-into-their-top)
+- [What Companies Are Doing TODAY to Rank High on AI Engines](https://knowledge.gtmstrategist.com/p/what-companies-are-doing-today-to)
+- [The ultimate guide to AEO: How to get ChatGPT to recommend your product](https://www.lennysnewsletter.com/p/the-ultimate-guide-to-aeo-ethan-smith)
 
 **PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).
 
@@ -178,6 +185,7 @@ Email marketing can help you with almost anything: onboarding new users, boostin
 - [The SaaS Email Marketing Playbook](https://saasplaybook.co/)
 - [Email Marketing for SaaS 101: Engage, Retain, and Scale](https://blog.beehiiv.com/p/email-marketing-for-saas)
 - [SaaS Email Marketing Strategy: Everything You Need to Know](https://userlist.com/blog/saas-email-marketing-strategies/)
+- [Lifecycle email planning worksheets from Userlist](https://userlist.com/worksheets/)
 - [How to Build High-Converting SaaS Email Onboarding Sequences](https://www.reddit.com/r/SaaS/comments/1b7l04k/how_to_build_highconverting_saas_email_onboarding/)
 - [Onboarding Email concepts](https://www.figma.com/community/file/1207279330099591674/onboarding-emails-25-concepts)
 - [SaaS Email Examples on Userlist's blog](https://userlist.com/blog/email-examples/)
@@ -196,7 +204,7 @@ Just like SEO, content marketing is one of the first growth levers to pull for a
 - [How to promote your MVP on Reddit](https://refined.so/blog/marketing-on-reddit)
 - [The Best Reddit Marketing Guide for Beginners](https://redreach.ai/reddit-marketing-guide)
 - [The Reddit Marketing Guide](https://spacestationlabs.notion.site/The-Reddit-Marketing-Guide-16c6915e04af8063aa38e7af3fa2577d)
-- [A how-to guide for writing original content that works](https://www.growthunhinged.com/p/you-need-a-better-content-strategy)
+- [A how-to guide for writing original content that works](https://web.archive.org/web/20250621232540/https://www.growthunhinged.com/p/you-need-a-better-content-strategy)
 - [How I used Reddit to get our first 1,000 customers](https://readfoundertofounder.com/p/how-i-used-reddit-to-get-our-first-1-000-customers)
 - [The key to self-promotion on Reddit](https://marketingexamples.com/content/reddit)
 - [The Ultimate Content Marketing Programs Guide for SaaS](https://www.mrrunlocked.com/p/the-ultimate-content-marketing-guide)
@@ -219,6 +227,7 @@ Here are a few guides to help you avoid burning through your budget before getti
 - [How to SPY on your competitor’s successful ads](https://www.marketingideas.com/p/track-competitor-tactics)
 - [250+ DevTool Ads examples](https://www.reo.dev/devtools-ad-examples)
 - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/founders/dev-marketing-paid-ads)
+- [How to run effective Reddit ads: Meme-Style, Incentive-First Copy, and "Is This an Ad?" Text Posts](https://www.linkedin.com/posts/aayildirim_if-youre-running-reddit-ads-you-know-its-activity-7364309579888771073-tvTR)
 
 <br/><br/><br/>
 
@@ -229,6 +238,7 @@ However, online advice on influencer marketing is often bad and outdated, so let
 - [Should Influencers be part of your GTM Strategy?](https://knowledge.gtmstrategist.com/p/should-influencers-be-part-of-your)
 - [Short Form Playbook from Jenny AI](https://www.starterstory.com/10m-playbook?utm_source=youtube&utm_campaign=10msaasplaybook) (also watch this [video](https://www.youtube.com/watch?v=KcCnqLBhvXY))
 - [How Clerk Partners with YouTube’s Dev Community](https://playbooks.hypergrowthpartners.com/p/how-clerk-partners-with-youtubes)
+- [5 Pillars of Successful Influencer Marketing Campaigns](https://knowledge.gtmstrategist.com/p/5-pillars-of-successful-influencer-marketing-campaigns)
 
 <br/><br/><br/>
 
@@ -236,7 +246,7 @@ However, online advice on influencer marketing is often bad and outdated, so let
 Word-of-mouth is often the main growth driver for bootstrapped startups. Why? Because affiliate and referral programs are easy to set up, cheap (you only pay if the user converts), and build trust and credibility (when users recommend your product, you’re not only getting traffic, but also social proof that it works).
 
 - [10 steps for a great Referral Program](https://thegrowthmind.substack.com/p/10-steps-for-a-great-referral-program)
-- [Your guide to B2B referrals](https://www.growthunhinged.com/p/your-guide-to-b2b-referrals)
+- [Your guide to B2B referrals](https://web.archive.org/web/20250523213447/https://www.growthunhinged.com/p/your-guide-to-b2b-referrals)
 - [Your ultimate guide to affiliate referrals for B2B SaaS](https://www.mrrunlocked.com/p/your-ultimate-guide-to-affiliate-referrals)
 - [8 Affiliate & Referral Email Examples](https://pin.it/5BxRb4Zv4)
 
@@ -257,17 +267,19 @@ Most startup websites are ineffective. They fail to tell who the product is for,
 
 Here are a few resources to turn your website into a sales and marketing asset:
 - [How to create a more effective homepage](https://newsletter.mkt1.co/p/homepage-copy)
-- [The only SaaS homepage framework you need](https://www.growthunhinged.com/p/how-to-write-a-saas-homepage)
+- [The only SaaS homepage framework you need](https://web.archive.org/web/20250919131318/https://www.growthunhinged.com/p/how-to-write-a-saas-homepage)
 - [How to create a high-converting SaaS homepage](https://www.mrrunlocked.com/p/how-to-high-converting-saas-homepage)
-- [The definitive product positioning framework](https://www.growthunhinged.com/p/product-positioning-part-one) and [How to differentiate your product](https://www.growthunhinged.com/p/how-to-differentiate-your-product)
+- [A quickstart guide to positioning](https://www.lennysnewsletter.com/p/positioning)
+- [The definitive product positioning framework](https://web.archive.org/web/20250814042615/https://www.growthunhinged.com/p/product-positioning-part-one) and [How to differentiate your product](https://web.archive.org/web/20250421234543/https://www.growthunhinged.com/p/how-to-differentiate-your-product)
 - [How to create value proposition for developer tools](https://www.markepear.dev/blog/value-proposition-developer-tools)
 - [Developer product positioning and messaging examples that slap](https://devpmm.substack.com/p/developer-product-positioning-and-messaging-examples-that-slap)
 - [The Ultimate SaaS Messaging Framework for early-stage Startups](https://www.mrrunlocked.com/p/the-ultimate-saas-messaging-framework)
 - [Use Social Proof To Elevate Your GTM Efforts](https://knowledge.gtmstrategist.com/p/use-social-proof-to-elevate-gtm-strategy)
 - [The Ultimate Guide on Case Studies & Testimonials](https://www.mrrunlocked.com/p/guide-case-studies)
 - [The DNA of a Great Pricing Page](https://www.elenaverna.com/p/the-dna-of-a-great-pricing-page)
-- [How to optimize your pricing page](https://www.growthunhinged.com/p/how-to-optimize-your-pricing-page)
+- [How to optimize your pricing page](https://web.archive.org/web/20250814043847/https://www.growthunhinged.com/p/how-to-optimize-your-pricing-page)
 - [How to create an effective pricing page](https://newsletter.mkt1.co/p/pricing-page-examples)
+- [The perfect Product Pages for SaaS founders](https://www.mrrunlocked.com/p/product-pages-for-saas)
 
 <br/><br/><br/>
 
@@ -279,13 +291,12 @@ Confused? You’re not alone. Pricing and business model are the toughest things
 Here are a few frameworks to get your price right:
 - [Pricing: From WTF to WTP (Willingness to Pay)](https://knowledge.gtmstrategist.com/p/pricing-from-wtf-to-willingness-to-pay)
 - [The Ultimate B2B SaaS Pricing Guide for early-stage startups](https://www.mrrunlocked.com/p/the-ultimate-b2b-saas-pricing-guide)
-- [Your guide to price testing](https://www.growthunhinged.com/p/your-guide-to-price-testing)
+- [Your guide to price testing](https://web.archive.org/web/20250929073716/https://www.growthunhinged.com/p/your-guide-to-price-testing)
 - [Are you leaving too much money on the table?](https://knowledge.gtmstrategist.com/p/are-you-leaving-too-much-money-on)
-- [How to have "the pricing talk" with your customers](https://www.growthunhinged.com/p/your-guide-to-finally-talking-to)
-- [The state of SaaS pricing](https://www.growthunhinged.com/p/the-state-of-usage-based-pricing)
-- [Your guide to reverse trials](https://www.growthunhinged.com/p/your-guide-to-reverse-trials)
+- [How to have "the pricing talk" with your customers](https://web.archive.org/web/20250717160702/https://www.growthunhinged.com/p/your-guide-to-finally-talking-to)
+- [Your guide to reverse trials](https://web.archive.org/web/20250814071651/https://www.growthunhinged.com/p/your-guide-to-reverse-trials)
 - [8 fundamentals about free trials for early stage PLG startups](https://www.mrrunlocked.com/p/free-trials-fundamentals)
-- [14 tactical ideas for selling annual plans](https://www.growthunhinged.com/p/how-to-sell-annual-plans)
+- [14 tactical ideas for selling annual plans](https://web.archive.org/web/20250725183608/https://www.growthunhinged.com/p/how-to-sell-annual-plans)
 
 <br/><br/><br/>
 
@@ -293,7 +304,7 @@ Here are a few frameworks to get your price right:
 Little tweaks can have a huge impact on conversions. Here are a few ideas ready for you to A/B test:
 
 - [Are you making this website mistake?](https://web.archive.org/web/20250210005430/https://www.marketingideas.com/p/are-you-making-this-website-mistake)
-- [Surprising lessons from 20,000 experiments](https://www.growthunhinged.com/p/surprising-lessons-website-conversion)
+- [Surprising lessons from 20,000 experiments](https://web.archive.org/web/20250821014350/https://www.growthunhinged.com/p/surprising-lessons-website-conversion)
 - [The most powerful CTA? Hint: It's definitely not "Book a Demo"](https://www.marketingideas.com/p/the-most-powerful-cta)
 - [23% more trial signups after paywall redesign](https://marketingexamples.com/landing-page/blinkist)
 - [One blurry background = 94% more conversions](https://web.archive.org/web/20250319080954/https://www.marketingideas.com/p/my-weirdest-ab-test-blew-everyones)
@@ -347,8 +358,9 @@ So, how do you get feedback? Here are a few resources to get you started:
 - [B2B startup marketing for noobs, by noobs](https://posthog.com/newsletter/b2b-startup-marketing-strategy)
 - [Developer marketing guide (by a dev tool startup CMO)](https://www.markepear.dev/blog/developer-marketing-guide)
 - [How we got our first 1,000 users by PostHog](https://posthog.com/founders/first-1000-users)
-- [Your guide to quick wins in SaaS marketing](https://www.growthunhinged.com/p/your-guide-to-quick-wins-in-saas)
+- [Your guide to quick wins in SaaS marketing](https://web.archive.org/web/20250805230355/https://www.growthunhinged.com/p/your-guide-to-quick-wins-in-saas)
 - [The Product-Market Fit Game](https://posthog.com/founders/product-market-fit-game)
+- [40 things we’ve learned about marketing for developers](https://newsletter.posthog.com/p/40-things-weve-learned-about-marketing)
 
 <br/><br/><br/>
 
