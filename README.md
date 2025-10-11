@@ -20,6 +20,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [📷 Social Media Marketing](#-social-media-marketing)
 - [❄ Sales & Cold Outreach](#-sales--cold-outreach)
 - [📈 SEO](#-seo)
+- [🤖 LLM SEO, AEO, GEO](#-llm-seo-aeo-geo) _**NEW!**_
 - [💌 Email Marketing](#-email-marketing)
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
@@ -30,7 +31,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [🎰 Pricing](#-pricing)
 - [🔥 Conversion Rate Optimization](#-conversion-rate-optimization)
 - [💡 Idea Validation](#-idea-validation)
-- [⚗ User Research](#-user-research) _**NEW!**_
+- [⚗ User Research](#-user-research)
 - [🧨 Other resources](#-other-resources)
 
 _**PS. Leave me a star ⭐ or [buy me a beer🍺](https://ko-fi.com/marketingforfounders) if you find this useful!**_
@@ -168,14 +169,23 @@ These guides and tips will help you get started:
 - [The Future of SEO is User-Generated Content](https://www.elenaverna.com/p/the-future-of-seo-is-user-generated)
 - [The HyperGrowth Partners Guide to AI-powered Programmatic SEO](https://playbooks.hypergrowthpartners.com/p/ai-powered-programmatic-seo)
 - [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) - the SEO course for makers
-- [SEO for LLMs and AI search](https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search)
-- [How to get recommended by ChatGPT](https://web.archive.org/web/20250912043229/https://www.growthunhinged.com/p/get-recommended-by-chatgpt)
-- [A hands-on guide to ranking across AI search engines like ChatGPT, Perplexity, and Google](https://knowledge.gtmstrategist.com/p/how-to-win-the-new-seo-game-ai-search)
-- [How Tally Turned AI into Their Top Acquisition Source](https://justinhammond.substack.com/p/how-tally-turned-ai-into-their-top)
-- [What Companies Are Doing TODAY to Rank High on AI Engines](https://knowledge.gtmstrategist.com/p/what-companies-are-doing-today-to)
-- [The ultimate guide to AEO: How to get ChatGPT to recommend your product](https://www.lennysnewsletter.com/p/the-ultimate-guide-to-aeo-ethan-smith)
+
 
 **PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).
+
+<br/><br/><br/>
+
+## 🤖 LLM SEO, AEO, GEO
+How to get recommended by ChatGPT, Claude, Perplexity, and Gemini is probably the most popular question from founders in 2025. And it’s easy to understand why, you can get mentioned by a citation tomorrow and start showing up immediately, even if you’re an early-stage startup. 
+
+So, where can you learn how to get found in AI search?
+- [The ultimate guide to AEO: How to get ChatGPT to recommend your product](https://www.lennysnewsletter.com/p/the-ultimate-guide-to-aeo-ethan-smith)
+- [How to get recommended by ChatGPT](https://web.archive.org/web/20250912043229/https://www.growthunhinged.com/p/get-recommended-by-chatgpt)
+- [A hands-on guide to ranking across AI search engines like ChatGPT, Perplexity, and Google](https://knowledge.gtmstrategist.com/p/how-to-win-the-new-seo-game-ai-search)
+- [How Vercel is adapting SEO for LLMs and AI search](https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search)
+- [How Tally Turned AI into Their Top Acquisition Source](https://justinhammond.substack.com/p/how-tally-turned-ai-into-their-top)
+- [What Companies Are Doing TODAY to Rank High on AI Engines](https://knowledge.gtmstrategist.com/p/what-companies-are-doing-today-to)
+- [A playbook for making AI discovery the best new channel for high-intent leads](https://web.archive.org/web/20251011132541/https://www.growthunhinged.com/p/ai-discovery-playbook)
 
 <br/><br/><br/>
 
