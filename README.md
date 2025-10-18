@@ -21,6 +21,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [❄ Sales & Cold Outreach](#-sales--cold-outreach)
 - [📈 SEO](#-seo)
 - [🤖 LLM SEO, AEO, GEO](#-llm-seo-aeo-geo) _**NEW!**_
+- [🐱‍👤 Marketing on Reddit](%E2%80%8D-marketing-on-reddit) _**NEW!**_
 - [💌 Email Marketing](#-email-marketing)
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
@@ -34,7 +35,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [⚗ User Research](#-user-research)
 - [🧨 Other resources](#-other-resources)
 
-_**PS. Leave me a star ⭐ or [buy me a beer🍺](https://ko-fi.com/marketingforfounders) if you find this useful!**_
+_**PS. Leave me a star ⭐ or [say Hi on X/Twitter](https://x.com/e_stradella) if you find this useful!**_
 <br/><br/><br/>
 
 ## 📣 Places To Launch Your Startup
@@ -189,6 +190,26 @@ So, where can you learn how to get found in AI search?
 
 <br/><br/><br/>
 
+## 🐱‍👤 Marketing on Reddit
+Everyone says Reddit is the go-to platform to get initial traction and the first users for your product. There’s a community for almost every topic, plus more and more people (and LLMs) are using it to bypass SEO garbage and find what real humans actually think.
+
+But Redditors have an almost supernatural ability to detect marketing, and when founders try to sneak in promotional content, it gets downvoted into oblivion (if you’re lucky).
+
+So, how to promote an App/SaaS/Startup on Reddit without getting banned?
+- [The Reddit marketing guide for beginners](https://redreach.ai/reddit-marketing-guide)
+- [How to promote your MVP on Reddit](https://refined.so/blog/marketing-on-reddit)
+- [Reddit post examples to launch/promote a product](https://it.pinterest.com/MarketingforFounders/marketing-on-reddit/)
+- [The key to self-promotion on Reddit](https://marketingexamples.com/content/reddit)
+- [How OpenPhone used Reddit to get our first 1,000 customers](https://readfoundertofounder.com/p/how-i-used-reddit-to-get-our-first-1-000-customers)
+- [Tips on marketing on Reddit from Lemlist](https://www.linkedin.com/posts/erwanxgrowth_everyone-says-reddit-is-the-new-growth-channel-activity-7373324721553154048-Ny4M)
+- [The storytelling hack for 10x buzz on Reddit](https://web.archive.org/web/20250319083601/https://www.marketingideas.com/p/the-storytelling-hack-for-10x-buzz)
+- [The key to self-promotion on Reddit](https://marketingexamples.com/content/reddit)
+
+
+**P.S.** If you're looking for a list of subreddits that allow self-promotion go back to [Places To Launch Your Startup](#-places-to-launch-your-startup), and if you're looking to set up your Reddit social listening strategy go back to [Social Media Marketing](#-social-media-marketing).
+
+<br/><br/><br/>
+
 ## 💌 Email Marketing
 Email marketing can help you with almost anything: onboarding new users, boosting free-to-paid conversions, promoting affiliate/referral programs, and collecting feedback. Plus, it’s often your only option to engage users outside of your product.
 
@@ -210,13 +231,7 @@ Email marketing can help you with almost anything: onboarding new users, boostin
 ## 🧲 Content Marketing
 Just like SEO, content marketing is one of the first growth levers to pull for a startup. This time, instead of creating content to praise search engines, you’ll be sharing it where your audience hangs out and hijacking trends for free exposure:
 - [Getting PR for your SaaS](https://1millionarr.substack.com/p/getting-pr-for-your-saas)
-- [The storytelling hack for 10x buzz on Reddit](https://www.marketingideas.com/p/the-storytelling-hack-for-10x-buzz)
-- [How to promote your MVP on Reddit](https://refined.so/blog/marketing-on-reddit)
-- [The Best Reddit Marketing Guide for Beginners](https://redreach.ai/reddit-marketing-guide)
-- [The Reddit Marketing Guide](https://spacestationlabs.notion.site/The-Reddit-Marketing-Guide-16c6915e04af8063aa38e7af3fa2577d)
 - [A how-to guide for writing original content that works](https://web.archive.org/web/20250621232540/https://www.growthunhinged.com/p/you-need-a-better-content-strategy)
-- [How I used Reddit to get our first 1,000 customers](https://readfoundertofounder.com/p/how-i-used-reddit-to-get-our-first-1-000-customers)
-- [The key to self-promotion on Reddit](https://marketingexamples.com/content/reddit)
 - [The Ultimate Content Marketing Programs Guide for SaaS](https://www.mrrunlocked.com/p/the-ultimate-content-marketing-guide)
 - [How to effectively create content for developers](https://www.markepear.dev/blog/developer-content-marketing)
 - A behind the scenes look at MKT1's content strategy [part 1](https://newsletter.mkt1.co/p/mkt1-content-strategy-part-1) and [part 2](https://newsletter.mkt1.co/p/mkt1-content-strategy-part-2)
