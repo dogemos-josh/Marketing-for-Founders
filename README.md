@@ -21,7 +21,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [❄ Sales & Cold Outreach](#-sales--cold-outreach)
 - [📈 SEO](#-seo)
 - [🤖 LLM SEO, AEO, GEO](#-llm-seo-aeo-geo) _**NEW!**_
-- [🐱‍👤 Marketing on Reddit](%E2%80%8D-marketing-on-reddit) _**NEW!**_
+- [🦊 Marketing on Reddit](#-marketing-on-reddit) _**NEW!**_
 - [💌 Email Marketing](#-email-marketing)
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
@@ -190,7 +190,7 @@ So, where can you learn how to get found in AI search?
 
 <br/><br/><br/>
 
-## 🐱‍👤 Marketing on Reddit
+## 🦊 Marketing on Reddit
 Everyone says Reddit is the go-to platform to get initial traction and the first users for your product. There’s a community for almost every topic, plus more and more people (and LLMs) are using it to bypass SEO garbage and find what real humans actually think.
 
 But Redditors have an almost supernatural ability to detect marketing, and when founders try to sneak in promotional content, it gets downvoted into oblivion (if you’re lucky).
