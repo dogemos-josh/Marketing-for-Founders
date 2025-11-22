@@ -92,11 +92,16 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [ShowMeYourSaaS](https://www.reddit.com/r/ShowMeYourSaaS/)
 - [DevelopersIndia](https://www.reddit.com/r/developersIndia/) - use flair "I made this"
 - [Androidapps](https://www.reddit.com/r/androidapps/) - use flair "Self Promotion"
-- [iOSProgramming/](https://www.reddit.com/r/iOSProgramming/) - use flair "App Saturday"
+- [iOSProgramming](https://www.reddit.com/r/iOSProgramming/) - use flair "App Saturday"
 - [MVPLaunch](https://www.reddit.com/r/MVPLaunch/)
 - [Macapps](https://www.reddit.com/r/macapps/)
 - [TheFounders](https://www.reddit.com/r/TheFounders/) - use flair "Show"
 - [Apps](https://www.reddit.com/r/apps/) - use flair "App"
+- [Chrome_extensions](https://www.reddit.com/r/chrome_extensions/) - use flair "Self Promotion"
+- [LaunchMyStartup](https://www.reddit.com/r/LaunchMyStartup/)
+- [ProductHunters](https://www.reddit.com/r/ProductHunters/)
+- [Startups_promotion](https://www.reddit.com/r/startups_promotion/)
+- [TestMyApp](https://www.reddit.com/r/TestMyApp/)
 
 **PS.** You can find more websites to launch your startup [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).<br/>
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
@@ -125,6 +130,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 
 **Other Social Media Marketing Guides:**
 - [Organic Growth Guide for TikTok and Instagram](https://www.post-bridge.com/growth-guide/start-here)
+- [Pinterest Growth Guide](https://www.blogtopin.com/growth-guide/start-here)
 
 <br/><br/><br/>
 
@@ -153,6 +159,8 @@ Here are a few ideas to set up your SaaS sales strategy:
 - [How Our Client Booked 25+ Meetings & 10+ New Logos Using Clay + YC](https://gtmba.beehiiv.com/p/how-our-client-booked-25-meetings-10-new-logos-using-clay-yc)
 - [Examples of proven sales plays to create a sales pipeline](https://www.elenaverna.com/p/examples-of-proven-sales-plays-to)
 - [How to create a high-converting Sales Deck](https://www.mrrunlocked.com/p/high-converting-sales-deck)
+- [How to sell to developers (tldr: you don’t, sell to their boss)](https://www.markepear.dev/blog/selling-to-developers)
+- [The enterprise sales playbook - Lenny's Podcast](https://youtu.be/37fKFWdrMyA)
 
 <br/><br/><br/>
 
@@ -172,7 +180,8 @@ These guides and tips will help you get started:
 - [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) - the SEO course for makers
 
 
-**PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).
+**PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).<br/>
+**PPS.** If you're building iOS apps also check these two ASO guides: [Create an App Store listing that ranks](https://refined.so/blog/app-store-listing-prompt) and [Rank higher on App Store](https://refined.so/blog/app-store-keywords-guide)
 
 <br/><br/><br/>
 
@@ -187,6 +196,7 @@ So, where can you learn how to get found in AI search?
 - [How Tally Turned AI into Their Top Acquisition Source](https://justinhammond.substack.com/p/how-tally-turned-ai-into-their-top)
 - [What Companies Are Doing TODAY to Rank High on AI Engines](https://knowledge.gtmstrategist.com/p/what-companies-are-doing-today-to)
 - [A playbook for making AI discovery the best new channel for high-intent leads](https://web.archive.org/web/20251011132541/https://www.growthunhinged.com/p/ai-discovery-playbook)
+- [AI & LLM SEO Course: Get ChatGPT, Claude & Perplexity to Recommend You](https://magicspace.agency/courses/ai-seo)
 
 <br/><br/><br/>
 
@@ -206,7 +216,7 @@ So, how to promote an App/SaaS/Startup on Reddit without getting banned?
 - [The key to self-promotion on Reddit](https://marketingexamples.com/content/reddit)
 
 
-**P.S.** If you're looking for a list of subreddits that allow self-promotion go back to [Places To Launch Your Startup](#-places-to-launch-your-startup), and if you're looking to set up your Reddit social listening strategy go back to [Social Media Marketing](#-social-media-marketing).
+**PS.** If you're looking for a list of subreddits that allow self-promotion go back to [Places To Launch Your Startup](#-places-to-launch-your-startup), and if you're looking to set up your Reddit social listening strategy go back to [Social Media Marketing](#-social-media-marketing).
 
 <br/><br/><br/>
 
@@ -237,6 +247,7 @@ Just like SEO, content marketing is one of the first growth levers to pull for a
 - A behind the scenes look at MKT1's content strategy [part 1](https://newsletter.mkt1.co/p/mkt1-content-strategy-part-1) and [part 2](https://newsletter.mkt1.co/p/mkt1-content-strategy-part-2)
 - [How I promote my content - Marketing Examples](https://marketingexamples.com/content/sharing)
 - [Content distribution checklist (thanks to Ross Simmonds)](https://docs.google.com/spreadsheets/d/1XaqKmHnMcRRznR-JQJsktlzkZ2fRmszGWZTeLeRyYZk/edit?gid=210200339#gid=210200339)
+- [How to create powerful SaaS Lead Magnets + examples](https://www.mrrunlocked.com/p/saas-lead-magnets)
 
 <br/><br/><br/>
 
@@ -305,6 +316,7 @@ Here are a few resources to turn your website into a sales and marketing asset:
 - [How to optimize your pricing page](https://web.archive.org/web/20250814043847/https://www.growthunhinged.com/p/how-to-optimize-your-pricing-page)
 - [How to create an effective pricing page](https://newsletter.mkt1.co/p/pricing-page-examples)
 - [The perfect Product Pages for SaaS founders](https://www.mrrunlocked.com/p/product-pages-for-saas)
+- [The Ultimate Guide to the perfect SaaS pricing page (incl. real examples)](https://www.mrrunlocked.com/p/saas-pricing-page)
 
 <br/><br/><br/>
 
@@ -386,6 +398,7 @@ So, how do you get feedback? Here are a few resources to get you started:
 - [Your guide to quick wins in SaaS marketing](https://web.archive.org/web/20250805230355/https://www.growthunhinged.com/p/your-guide-to-quick-wins-in-saas)
 - [The Product-Market Fit Game](https://posthog.com/founders/product-market-fit-game)
 - [40 things we’ve learned about marketing for developers](https://newsletter.posthog.com/p/40-things-weve-learned-about-marketing)
+- [How to create a good GitHub Readme](https://www.markepear.dev/blog/github-readme-guide)
 
 <br/><br/><br/>
 
