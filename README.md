@@ -1,5 +1,5 @@
 # Marketing for Founders
-_**TL;DR: This is a collection of practical marketing resources to get the first 10/100/1000 users for your SaaS/App/Startup.**_
+_**TL;DR: This is a collection of practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup.**_
 \
 \
 \
@@ -21,7 +21,7 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [❄ Sales & Cold Outreach](#-sales--cold-outreach)
 - [📈 SEO](#-seo)
 - [🤖 LLM SEO, AEO, GEO](#-llm-seo-aeo-geo) _**NEW!**_
-- [🦊 Marketing on Reddit](#-marketing-on-reddit) _**NEW!**_
+- [🦊 Marketing on Reddit](#-marketing-on-reddit)
 - [💌 Email Marketing](#-email-marketing)
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
@@ -74,6 +74,12 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [LTD Hunt](https://www.facebook.com/groups/177897162856645)
 - [KEN Moo](https://www.facebook.com/groups/1057623338043525)
 - [Lifetimo](https://www.facebook.com/groups/1872282809691807)
+- [Prime Club](https://primeclub.co/)
+- [SaasZilla](https://saaszilla.co/)
+- [SaaSPirate](https://saaspirate.com/)
+- [ProductCanyon](https://productcanyon.com/)
+- [Dealmirror](https://dealmirror.com/)
+- [Dealify](https://dealify.com/)
 
 **Subreddits (always check the rules before posting anything):**
 - [Sideproject](https://www.reddit.com/r/SideProject/)
@@ -102,6 +108,8 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [ProductHunters](https://www.reddit.com/r/ProductHunters/)
 - [Startups_promotion](https://www.reddit.com/r/startups_promotion/)
 - [TestMyApp](https://www.reddit.com/r/TestMyApp/)
+- [ProductivityApps](https://www.reddit.com/r/ProductivityApps/)
+- [ShowYourApp](https://www.reddit.com/r/ShowYourApp/)
 
 **PS.** You can find more websites to launch your startup [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).<br/>
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
@@ -117,6 +125,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [LinkedIn CEO/Founder playbook](https://www.markepear.dev/blog/linkedin-ceo-founder-playbook)
 - [199 LinkedIn post examples](https://miro.com/app/board/uXjVKUoKvTw=/)
 - [6 hacks to get the most out of LinkedIn](https://web.archive.org/web/20250717160200/https://www.growthunhinged.com/p/guide-to-mastering-linkedin)
+- [The Ultimate Founder & Team LinkedIn Playbook](https://www.mrrunlocked.com/p/founder-linkedin-playbook)
 - [Turn Building in Public into your most profitable GTM channel](https://knowledge.gtmstrategist.com/p/turn-building-in-public-into-your)
 - [How to market to developers on Twitter](https://www.markepear.dev/blog/developer-marketing-twitter)
 - [SuperX Twitter Analytics extension](https://chromewebstore.google.com/detail/superx-twitter-analytics/bjobgelaoehgbnklgcaaehdpckmhkplk) - to find top performing tweets from other accounts
@@ -178,6 +187,7 @@ These guides and tips will help you get started:
 - [The Future of SEO is User-Generated Content](https://www.elenaverna.com/p/the-future-of-seo-is-user-generated)
 - [The HyperGrowth Partners Guide to AI-powered Programmatic SEO](https://playbooks.hypergrowthpartners.com/p/ai-powered-programmatic-seo)
 - [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) - the SEO course for makers
+- [How to do keyword research for SEO and AEO](https://www.marketermilk.com/blog/how-to-do-keyword-research)
 
 
 **PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).<br/>
@@ -305,6 +315,7 @@ Here are a few resources to turn your website into a sales and marketing asset:
 - [How to create a more effective homepage](https://newsletter.mkt1.co/p/homepage-copy)
 - [The only SaaS homepage framework you need](https://web.archive.org/web/20250919131318/https://www.growthunhinged.com/p/how-to-write-a-saas-homepage)
 - [How to create a high-converting SaaS homepage](https://www.mrrunlocked.com/p/how-to-high-converting-saas-homepage)
+- [SaaS Headline Playbook](https://nicolasmerouze.notion.site/SaaS-Headline-Playbook-176830adbaa5477994946a3106473aba)
 - [A quickstart guide to positioning](https://www.lennysnewsletter.com/p/positioning)
 - [The definitive product positioning framework](https://web.archive.org/web/20250814042615/https://www.growthunhinged.com/p/product-positioning-part-one) and [How to differentiate your product](https://web.archive.org/web/20250421234543/https://www.growthunhinged.com/p/how-to-differentiate-your-product)
 - [How to create value proposition for developer tools](https://www.markepear.dev/blog/value-proposition-developer-tools)
