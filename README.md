@@ -51,6 +51,8 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [Hacker News](https://news.ycombinator.com/show)
 - [ProductHunt](https://www.producthunt.com/) - use this [guide](https://socialgrowthlab.notion.site/Engaging-your-network-for-a-Product-Hunt-Launch-fc37ed8746ba46ee914bc24e46d92dbd) to plan your Product Hunt launch
 - [SideProjectors](https://www.sideprojectors.com/)
+- [LaunchIgniter](https://launchigniter.com/)
+- [PeerPush](https://peerpush.net/)
 
 **Software directories:**
 - [Toolfolio](https://toolfolio.io/)
@@ -64,6 +66,9 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [Capterra](https://www.capterra.com/)
 - [There's an AI for that](https://theresanaiforthat.com/)
 - [Alternativeto](https://alternativeto.net/)
+- [SourceForge](https://sourceforge.net/)
+- [Softonic](https://softonic.com/)
+- [TrustMRR](https://trustmrr.com/)
 
 **Lifetime deals platforms & groups:**
 - [AppSumo](https://appsumo.com/)
@@ -315,6 +320,7 @@ Here are a few resources to turn your website into a sales and marketing asset:
 - [How to create a more effective homepage](https://newsletter.mkt1.co/p/homepage-copy)
 - [The only SaaS homepage framework you need](https://web.archive.org/web/20250919131318/https://www.growthunhinged.com/p/how-to-write-a-saas-homepage)
 - [How to create a high-converting SaaS homepage](https://www.mrrunlocked.com/p/how-to-high-converting-saas-homepage)
+- [ConversionFactory's SaaS homepage framework](https://x.com/coreyhainesco/status/1948873434098028746?s=20)
 - [SaaS Headline Playbook](https://nicolasmerouze.notion.site/SaaS-Headline-Playbook-176830adbaa5477994946a3106473aba)
 - [A quickstart guide to positioning](https://www.lennysnewsletter.com/p/positioning)
 - [The definitive product positioning framework](https://web.archive.org/web/20250814042615/https://www.growthunhinged.com/p/product-positioning-part-one) and [How to differentiate your product](https://web.archive.org/web/20250421234543/https://www.growthunhinged.com/p/how-to-differentiate-your-product)
